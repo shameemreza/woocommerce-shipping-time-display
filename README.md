@@ -28,6 +28,9 @@ It is a simple yet effective extension that allows store owners to add a custom 
 
 ![CleanShot 2025-02-19 at 15 25 52](https://github.com/user-attachments/assets/947bd961-57ef-4941-b2df-173bef58e24b)
 
+![CleanShot 2025-02-20 at 15 46 17](https://github.com/user-attachments/assets/2c0d005a-c72f-4228-93bb-fb35a3c5d15b)
+
+
 
 ## Requirements  
 - WordPress 5.0+  
@@ -35,10 +38,10 @@ It is a simple yet effective extension that allows store owners to add a custom 
 - PHP 7.0+  
 
 ## Support
-If you encounter any issues, feel free to open an issue or hire a developer.
+Feel free to open an issue or hire a developer if you encounter any issues.
 
 # Contributing
-Pull requests are welcome! If you’d like to improve this plugin, feel free to fork the repository and submit your changes.
+Pull requests are welcome! If you'd like to improve this plugin, feel free to fork the repository and submit your changes.
 
 ## License
 This plugin is licensed under the **GPL-2.0 or later**.
